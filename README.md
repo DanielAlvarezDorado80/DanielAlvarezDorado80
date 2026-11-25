@@ -19,11 +19,15 @@ Ingeniero de datos con amplia experiencia en desarrollo de software y procesamie
 - Scrum Fundamentals Certified (SFC™) · Scrum Foundation Professional Certification (SFPC™) · Kanban Essentials Certified
 
 ### 📂 Proyectos destacados
+
+**Datos (SQL · Python)**
+- **[sql-optimizacion-caso-real](https://github.com/DanielAlvarezDorado80/sql-optimizacion-caso-real)** — dos consultas lentas sobre 3 millones de filas, analizadas con `EXPLAIN ANALYZE`: de 137 ms a 25 ms y de 776 ms a 3,3 ms. Incluye la equivalencia en Oracle.
+- **[etl-pib-per-capita](https://github.com/DanielAlvarezDorado80/etl-pib-per-capita)** — pipeline ETL en Python: datos abiertos del Banco Mundial, validación y limpieza, carga idempotente en SQLite, registro de ejecuciones y tests.
+
+**Desarrollo web**
 - **[DJANGO_Gestor_Tareas](https://github.com/DanielAlvarezDorado80/DJANGO_Gestor_Tareas)** — gestor de tareas tipo Trello con tableros, columnas y tareas movibles (Django).
 - **[Inventario25](https://github.com/DanielAlvarezDorado80/Inventario25)** — aplicación para controlar stock y movimientos de productos (Django).
 - **[rick-morty-explorer](https://github.com/DanielAlvarezDorado80/rick-morty-explorer)** — aplicación web que consume la API de Rick and Morty (JavaScript).
-
-*Próximamente: proyectos de ingeniería de datos (pipeline ETL en Python, SQL/PL-SQL avanzado y Oracle Autonomous Database en OCI).*
 
 ### 📫 Contacto
 - Email: daniel.alvarez.dorado@gmail.com
